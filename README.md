@@ -9,6 +9,9 @@
 
 #### Projeto desenvolvido por Márcia Agostinho
 
+[<img src="./img/tela-projeto-gatinho2.gif">]
+
+### Itens centralizados ao centro nos dois eixos
 
 
 
